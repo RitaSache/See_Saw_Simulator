@@ -18,7 +18,7 @@ public class MultiThreads extends Thread {
             otherSemaphore.acquire();
             while(simulation.velocity < 0.0){
                 simulation.simulateHalfSecond();
-                if(simulation.time%1 == 0) {
+                if(simulation.time%1 == 0.0) {
                     System.out.println("Fred's height is " + simulation.fredHeight + " at time " +
                     simulation.time + "sec, and Wilma's height is " + simulation.wilmaHeight +
                             "at time " + simulation.time + " sec");
@@ -37,7 +37,7 @@ public class MultiThreads extends Thread {
             otherSemaphore.acquire();
             while(simulation.velocity > 0.0){
                 simulation.simulateHalfSecond();
-                if(simulation.time%1 == 0){
+                if(simulation.time%1 == 0.0){
                     System.out.println("Fred's height is " + simulation.fredHeight + " at time " +
                             simulation.time + "sec, and Wilma's height is " + simulation.wilmaHeight +
                             "at time " + simulation.time + " sec");
