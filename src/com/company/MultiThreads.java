@@ -29,8 +29,11 @@ public class MultiThreads extends Thread {
             }
 
             if (simulation.fredHeight <= 1.0) {
+                System.out.println("Fred pushed");
                 pushCount++;
                 simulation.velocity = 1;
+            } else {
+                System.out.println("Fred coming down, Wilma going up");
             }
 
             simulation.simulateHalfSecond();
@@ -40,6 +43,7 @@ public class MultiThreads extends Thread {
     public void wilmaSaw() {
         while (simulation.velocity >= 0.0) {
             if(simulation.velocity == 0.0 && simulation.wilmaHeight > 1.0) {
+                // Not our turn to push
                 break;
             }
 
@@ -52,6 +56,9 @@ public class MultiThreads extends Thread {
             if (simulation.wilmaHeight <= 1.0) {
                 pushCount++;
                 simulation.velocity = -1.5;
+                System.out.println("Wilma pushed");
+            } else {
+                System.out.println("Wilma coming down, Fred going up");
             }
 
             simulation.simulateHalfSecond();

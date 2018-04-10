@@ -1,0 +1,290 @@
+Fred's height is 1.0 at time 0.0 sec, and Wilma's height is 7.0 at time 0.0 sec
+Fred pushed
+Wilma coming down, Fred going up
+Fred's height is 2.0 at time 1.0 sec, and Wilma's height is 6.0 at time 1.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 3.0 at time 2.0 sec, and Wilma's height is 5.0 at time 2.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 4.0 at time 3.0 sec, and Wilma's height is 4.0 at time 3.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 5.0 at time 4.0 sec, and Wilma's height is 3.0 at time 4.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 6.0 at time 5.0 sec, and Wilma's height is 2.0 at time 5.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 7.0 at time 6.0 sec, and Wilma's height is 1.0 at time 6.0 sec
+Wilma pushed
+Fred coming down, Wilma going up
+Fred's height is 5.5 at time 7.0 sec, and Wilma's height is 2.5 at time 7.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 4.0 at time 8.0 sec, and Wilma's height is 4.0 at time 8.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 2.5 at time 9.0 sec, and Wilma's height is 5.5 at time 9.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 1.0 at time 10.0 sec, and Wilma's height is 7.0 at time 10.0 sec
+Fred pushed
+Wilma coming down, Fred going up
+Fred's height is 2.0 at time 11.0 sec, and Wilma's height is 6.0 at time 11.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 3.0 at time 12.0 sec, and Wilma's height is 5.0 at time 12.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 4.0 at time 13.0 sec, and Wilma's height is 4.0 at time 13.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 5.0 at time 14.0 sec, and Wilma's height is 3.0 at time 14.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 6.0 at time 15.0 sec, and Wilma's height is 2.0 at time 15.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 7.0 at time 16.0 sec, and Wilma's height is 1.0 at time 16.0 sec
+Wilma pushed
+Fred coming down, Wilma going up
+Fred's height is 5.5 at time 17.0 sec, and Wilma's height is 2.5 at time 17.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 4.0 at time 18.0 sec, and Wilma's height is 4.0 at time 18.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 2.5 at time 19.0 sec, and Wilma's height is 5.5 at time 19.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 1.0 at time 20.0 sec, and Wilma's height is 7.0 at time 20.0 sec
+Fred pushed
+Wilma coming down, Fred going up
+Fred's height is 2.0 at time 21.0 sec, and Wilma's height is 6.0 at time 21.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 3.0 at time 22.0 sec, and Wilma's height is 5.0 at time 22.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 4.0 at time 23.0 sec, and Wilma's height is 4.0 at time 23.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 5.0 at time 24.0 sec, and Wilma's height is 3.0 at time 24.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 6.0 at time 25.0 sec, and Wilma's height is 2.0 at time 25.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 7.0 at time 26.0 sec, and Wilma's height is 1.0 at time 26.0 sec
+Wilma pushed
+Fred coming down, Wilma going up
+Fred's height is 5.5 at time 27.0 sec, and Wilma's height is 2.5 at time 27.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 4.0 at time 28.0 sec, and Wilma's height is 4.0 at time 28.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 2.5 at time 29.0 sec, and Wilma's height is 5.5 at time 29.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 1.0 at time 30.0 sec, and Wilma's height is 7.0 at time 30.0 sec
+Fred pushed
+Wilma coming down, Fred going up
+Fred's height is 2.0 at time 31.0 sec, and Wilma's height is 6.0 at time 31.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 3.0 at time 32.0 sec, and Wilma's height is 5.0 at time 32.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 4.0 at time 33.0 sec, and Wilma's height is 4.0 at time 33.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 5.0 at time 34.0 sec, and Wilma's height is 3.0 at time 34.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 6.0 at time 35.0 sec, and Wilma's height is 2.0 at time 35.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 7.0 at time 36.0 sec, and Wilma's height is 1.0 at time 36.0 sec
+Wilma pushed
+Fred coming down, Wilma going up
+Fred's height is 5.5 at time 37.0 sec, and Wilma's height is 2.5 at time 37.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 4.0 at time 38.0 sec, and Wilma's height is 4.0 at time 38.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 2.5 at time 39.0 sec, and Wilma's height is 5.5 at time 39.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 1.0 at time 40.0 sec, and Wilma's height is 7.0 at time 40.0 sec
+Fred pushed
+Wilma coming down, Fred going up
+Fred's height is 2.0 at time 41.0 sec, and Wilma's height is 6.0 at time 41.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 3.0 at time 42.0 sec, and Wilma's height is 5.0 at time 42.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 4.0 at time 43.0 sec, and Wilma's height is 4.0 at time 43.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 5.0 at time 44.0 sec, and Wilma's height is 3.0 at time 44.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 6.0 at time 45.0 sec, and Wilma's height is 2.0 at time 45.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 7.0 at time 46.0 sec, and Wilma's height is 1.0 at time 46.0 sec
+Wilma pushed
+Fred coming down, Wilma going up
+Fred's height is 5.5 at time 47.0 sec, and Wilma's height is 2.5 at time 47.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 4.0 at time 48.0 sec, and Wilma's height is 4.0 at time 48.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 2.5 at time 49.0 sec, and Wilma's height is 5.5 at time 49.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 1.0 at time 50.0 sec, and Wilma's height is 7.0 at time 50.0 sec
+Fred pushed
+Wilma coming down, Fred going up
+Fred's height is 2.0 at time 51.0 sec, and Wilma's height is 6.0 at time 51.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 3.0 at time 52.0 sec, and Wilma's height is 5.0 at time 52.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 4.0 at time 53.0 sec, and Wilma's height is 4.0 at time 53.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 5.0 at time 54.0 sec, and Wilma's height is 3.0 at time 54.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 6.0 at time 55.0 sec, and Wilma's height is 2.0 at time 55.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 7.0 at time 56.0 sec, and Wilma's height is 1.0 at time 56.0 sec
+Wilma pushed
+Fred coming down, Wilma going up
+Fred's height is 5.5 at time 57.0 sec, and Wilma's height is 2.5 at time 57.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 4.0 at time 58.0 sec, and Wilma's height is 4.0 at time 58.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 2.5 at time 59.0 sec, and Wilma's height is 5.5 at time 59.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 1.0 at time 60.0 sec, and Wilma's height is 7.0 at time 60.0 sec
+Fred pushed
+Wilma coming down, Fred going up
+Fred's height is 2.0 at time 61.0 sec, and Wilma's height is 6.0 at time 61.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 3.0 at time 62.0 sec, and Wilma's height is 5.0 at time 62.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 4.0 at time 63.0 sec, and Wilma's height is 4.0 at time 63.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 5.0 at time 64.0 sec, and Wilma's height is 3.0 at time 64.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 6.0 at time 65.0 sec, and Wilma's height is 2.0 at time 65.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 7.0 at time 66.0 sec, and Wilma's height is 1.0 at time 66.0 sec
+Wilma pushed
+Fred coming down, Wilma going up
+Fred's height is 5.5 at time 67.0 sec, and Wilma's height is 2.5 at time 67.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 4.0 at time 68.0 sec, and Wilma's height is 4.0 at time 68.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 2.5 at time 69.0 sec, and Wilma's height is 5.5 at time 69.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 1.0 at time 70.0 sec, and Wilma's height is 7.0 at time 70.0 sec
+Fred pushed
+Wilma coming down, Fred going up
+Fred's height is 2.0 at time 71.0 sec, and Wilma's height is 6.0 at time 71.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 3.0 at time 72.0 sec, and Wilma's height is 5.0 at time 72.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 4.0 at time 73.0 sec, and Wilma's height is 4.0 at time 73.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 5.0 at time 74.0 sec, and Wilma's height is 3.0 at time 74.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 6.0 at time 75.0 sec, and Wilma's height is 2.0 at time 75.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 7.0 at time 76.0 sec, and Wilma's height is 1.0 at time 76.0 sec
+Wilma pushed
+Fred coming down, Wilma going up
+Fred's height is 5.5 at time 77.0 sec, and Wilma's height is 2.5 at time 77.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 4.0 at time 78.0 sec, and Wilma's height is 4.0 at time 78.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 2.5 at time 79.0 sec, and Wilma's height is 5.5 at time 79.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 1.0 at time 80.0 sec, and Wilma's height is 7.0 at time 80.0 sec
+Fred pushed
+Wilma coming down, Fred going up
+Fred's height is 2.0 at time 81.0 sec, and Wilma's height is 6.0 at time 81.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 3.0 at time 82.0 sec, and Wilma's height is 5.0 at time 82.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 4.0 at time 83.0 sec, and Wilma's height is 4.0 at time 83.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 5.0 at time 84.0 sec, and Wilma's height is 3.0 at time 84.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 6.0 at time 85.0 sec, and Wilma's height is 2.0 at time 85.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 7.0 at time 86.0 sec, and Wilma's height is 1.0 at time 86.0 sec
+Wilma pushed
+Fred coming down, Wilma going up
+Fred's height is 5.5 at time 87.0 sec, and Wilma's height is 2.5 at time 87.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 4.0 at time 88.0 sec, and Wilma's height is 4.0 at time 88.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 2.5 at time 89.0 sec, and Wilma's height is 5.5 at time 89.0 sec
+Fred coming down, Wilma going up
+Fred coming down, Wilma going up
+Fred's height is 1.0 at time 90.0 sec, and Wilma's height is 7.0 at time 90.0 sec
+Fred pushed
+Wilma coming down, Fred going up
+Fred's height is 2.0 at time 91.0 sec, and Wilma's height is 6.0 at time 91.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 3.0 at time 92.0 sec, and Wilma's height is 5.0 at time 92.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 4.0 at time 93.0 sec, and Wilma's height is 4.0 at time 93.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 5.0 at time 94.0 sec, and Wilma's height is 3.0 at time 94.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 6.0 at time 95.0 sec, and Wilma's height is 2.0 at time 95.0 sec
+Wilma coming down, Fred going up
+Wilma coming down, Fred going up
+Fred's height is 7.0 at time 96.0 sec, and Wilma's height is 1.0 at time 96.0 sec
+Wilma pushed
