@@ -12,48 +12,40 @@ public class MultiThreads extends Thread {
         this.mySemaphore = mySemaphore;
         this.otherSemaphore = otherSemaphore;
     }
-    public void fredSee() throws InterruptedException {
-        while(true) {
-            mySemaphore.acquire();
-            otherSemaphore.acquire();
-            while(simulation.velocity < 0.0){
-                simulation.simulateHalfSecond();
-                if(simulation.time%1 == 0.0) {
-                    System.out.println("Fred's height is " + simulation.fredHeight + " at time " +
-                    simulation.time + "sec, and Wilma's height is " + simulation.wilmaHeight +
-                            "at time " + simulation.time + " sec");
-                }
-                if(simulation.fredHeight <=1.0) {
-                    simulation.velocity++;
-                }
+
+    public void fredSee() {
+        System.out.println("In fred see");
+        while (simulation.velocity <= 0.0) {
+            if (simulation.time % 1 == 0.0) {
+                System.out.println("Fred's height is " + simulation.fredHeight + " at time " +
+                        simulation.time + " sec, and Wilma's height is " + simulation.wilmaHeight +
+                        " at time " + simulation.time + " sec");
             }
-            mySemaphore.release();
-            otherSemaphore.release();
+            if (simulation.fredHeight <= 1.0) {
+                simulation.velocity = 1;
+            }
+            simulation.simulateHalfSecond();
         }
     }
-    public void wilmaSaw() throws InterruptedException {
-        while(true) {
-            mySemaphore.acquire();
-            otherSemaphore.acquire();
-            while(simulation.velocity > 0.0){
-                simulation.simulateHalfSecond();
-                if(simulation.time%1 == 0.0){
-                    System.out.println("Fred's height is " + simulation.fredHeight + " at time " +
-                            simulation.time + "sec, and Wilma's height is " + simulation.wilmaHeight +
-                            "at time " + simulation.time + " sec");
-                }
-                if(simulation.wilmaHeight <= 1.0) {
-                    simulation.velocity = simulation.velocity - 1.5;
-                }
+
+    public void wilmaSaw() {
+        System.out.println("In wilma see");
+        while (simulation.velocity >= 0.0) {
+            if (simulation.time % 1 == 0.0) {
+                System.out.println("Fred's height is " + simulation.fredHeight + " at time " +
+                        simulation.time + " sec, and Wilma's height is " + simulation.wilmaHeight +
+                        " at time " + simulation.time + " sec");
             }
-            mySemaphore.release();
-            otherSemaphore.release();
+            if (simulation.wilmaHeight <= 1.0) {
+                simulation.velocity = -1.5;
+            }
+            simulation.simulateHalfSecond();
         }
     }
 
     public void run() {
         int simulationCounter = 0;
-        while(simulationCounter < 10) {
+        while (simulationCounter < 10) {
             try {
                 mySemaphore.acquire();
                 otherSemaphore.acquire();
@@ -64,6 +56,7 @@ public class MultiThreads extends Thread {
                 }
                 mySemaphore.release();
                 otherSemaphore.release();
+                System.out.println(simulationCounter);
                 simulationCounter++;
             } catch (InterruptedException e) {
                 Thread.currentThread().interrupt();
