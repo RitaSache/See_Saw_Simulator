@@ -16,6 +16,10 @@ public class MultiThreads extends Thread {
     public void fredSee() {
         System.out.println("In fred see");
         while (simulation.velocity <= 0.0) {
+            if(simulation.velocity >= 0.0 && simulation.fredHeight > 1.0) {
+                break;
+            }
+
             if (simulation.time % 1 == 0.0) {
                 System.out.println("Fred's height is " + simulation.fredHeight + " at time " +
                         simulation.time + " sec, and Wilma's height is " + simulation.wilmaHeight +
@@ -31,6 +35,10 @@ public class MultiThreads extends Thread {
     public void wilmaSaw() {
         System.out.println("In wilma see");
         while (simulation.velocity >= 0.0) {
+            if(simulation.velocity >= 0.0 && simulation.wilmaHeight > 1.0) {
+                break;
+            }
+
             if (simulation.time % 1 == 0.0) {
                 System.out.println("Fred's height is " + simulation.fredHeight + " at time " +
                         simulation.time + " sec, and Wilma's height is " + simulation.wilmaHeight +
