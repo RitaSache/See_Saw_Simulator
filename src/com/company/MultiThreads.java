@@ -5,18 +5,20 @@ public class MultiThreads extends Thread {
     SeeSawSimulator simulation;
     BinarySemaphore mySemaphore;
     BinarySemaphore otherSemaphore;
+    int pushCount;
 
     public MultiThreads(String name, SeeSawSimulator simulation, BinarySemaphore mySemaphore, BinarySemaphore otherSemaphore) {
         this.name = name;
         this.simulation = simulation;
         this.mySemaphore = mySemaphore;
         this.otherSemaphore = otherSemaphore;
+        this.pushCount = 0;
     }
 
     public void fredSee() {
-        System.out.println("In fred see");
         while (simulation.velocity <= 0.0) {
-            if(simulation.velocity >= 0.0 && simulation.fredHeight > 1.0) {
+            if(simulation.velocity == 0.0 && simulation.fredHeight > 1.0) {
+                // Not our turn to push
                 break;
             }
 
@@ -25,17 +27,19 @@ public class MultiThreads extends Thread {
                         simulation.time + " sec, and Wilma's height is " + simulation.wilmaHeight +
                         " at time " + simulation.time + " sec");
             }
+
             if (simulation.fredHeight <= 1.0) {
+                pushCount++;
                 simulation.velocity = 1;
             }
+
             simulation.simulateHalfSecond();
         }
     }
 
     public void wilmaSaw() {
-        System.out.println("In wilma see");
         while (simulation.velocity >= 0.0) {
-            if(simulation.velocity >= 0.0 && simulation.wilmaHeight > 1.0) {
+            if(simulation.velocity == 0.0 && simulation.wilmaHeight > 1.0) {
                 break;
             }
 
@@ -44,16 +48,18 @@ public class MultiThreads extends Thread {
                         simulation.time + " sec, and Wilma's height is " + simulation.wilmaHeight +
                         " at time " + simulation.time + " sec");
             }
+
             if (simulation.wilmaHeight <= 1.0) {
+                pushCount++;
                 simulation.velocity = -1.5;
             }
+
             simulation.simulateHalfSecond();
         }
     }
 
     public void run() {
-        int simulationCounter = 0;
-        while (simulationCounter < 10) {
+        while (this.pushCount < 10) {
             try {
                 mySemaphore.acquire();
                 otherSemaphore.acquire();
@@ -64,10 +70,7 @@ public class MultiThreads extends Thread {
                 }
                 mySemaphore.release();
                 otherSemaphore.release();
-                System.out.println(simulationCounter);
-                simulationCounter++;
             } catch (InterruptedException e) {
-                Thread.currentThread().interrupt();
                 return;
             }
         }
